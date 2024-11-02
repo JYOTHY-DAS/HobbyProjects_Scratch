@@ -3,7 +3,7 @@
 
 ## How to Play:
 - ### Start the game by clicking the green flag.
-- ### Control the frog’s jumps using the space key to dodge the stone
+- ### Control the frog’s jumps using the space key to dodge the stone.
 - ### Each time the stone appears, it moves across the screen with a new random position on the y-axis.
 - ### Try to avoid getting hit for as long as possible to achieve a high score!
 ## Features:
